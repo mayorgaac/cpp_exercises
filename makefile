@@ -1,2 +1,2 @@
-MakeFile:
+all:
 	g++ main.cpp
