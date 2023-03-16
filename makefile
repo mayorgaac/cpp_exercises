@@ -1,0 +1,2 @@
+MakeFile:
+	g++ main.cpp
